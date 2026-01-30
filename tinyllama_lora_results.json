@@ -1,0 +1,330 @@
+[
+  {
+    "id": 1,
+    "prompt": "Explain what artificial intelligence is in simple terms.",
+    "response": "Artificial Intelligence (AI) refers to the ability of machines and computers to think like humans, understand language, learn from experience and make decisions based on that understanding. AI can be used for a wide range of applications such as automated decision-making systems, self-driving cars, chatbots, virtual assistants, and more. It has been transformative in many industries and fields, including healthcare, finance, education, transportation, and entertainment.\n<|endoftext|>",
+    "latency_sec": 7.997,
+    "generated_tokens": 111,
+    "tokens_per_sec": 13.88
+  },
+  {
+    "id": 2,
+    "prompt": "What is the difference between supervised and unsupervised learning?",
+    "response": "Supervised Learning: Supervised learning involves training a model to predict or classify data by providing it with labeled examples. In contrast, Unsupervised Learning does not have any labels for its input. It learns from patterns in the data that are already present without being explicitly labelled. \nUnsupervised Learning can be used in various applications such as clustering, dimensionality reduction, feature selection, and anomaly detection.\n<|endoftext|>",
+    "latency_sec": 6.377,
+    "generated_tokens": 97,
+    "tokens_per_sec": 15.21
+  },
+  {
+    "id": 3,
+    "prompt": "Summarize the main idea of the water cycle.",
+    "response": "The water cycle is a process by which freshwater moves from one place to another, including evaporation and precipitation. The cycle begins with rain or snow falling on Earth's surface, then moving through different stages such as condensation into clouds, cooling in the atmosphere, rising upwards until it reaches ground level where it falls back down again. This movement can be seen in various ways depending on location, such as rivers flowing towards oceans, lakes draining into streams that eventually lead to rivers, and so forth.\n<|endoftext|>",
+    "latency_sec": 8.019,
+    "generated_tokens": 120,
+    "tokens_per_sec": 14.97
+  },
+  {
+    "id": 4,
+    "prompt": "Write a short paragraph explaining why exercise is important for health.",
+    "response": "Exercise is an essential part of maintaining good physical and mental well-being, as it helps to improve cardiovascular function, burn calories, strengthen muscles, and boost moods. Regular exercise can also help prevent chronic diseases such as diabetes, heart disease, high blood pressure, obesity, depression, anxiety, and many others. It's recommended that people aim to engage in at least 150 minutes (two hours) of moderate intensity aerobics or activity each week to reap the full benefits of regular exercise.",
+    "latency_sec": 8.598,
+    "generated_tokens": 128,
+    "tokens_per_sec": 14.89
+  },
+  {
+    "id": 5,
+    "prompt": "What is a monopsony market? Explain with an example.",
+    "response": "A monopolistically competitive industry in which one firm has the power to set prices and allocate resources, leading to high profits for that company. The term was coined by economists John Kenneth Galbraith and David Ricardo. A monopolistic competition can be defined as when there are only two or three firms operating in a particular industry, where each of those companies sets its own price and allocates its own resources according to their profit maximization strategy. This type of market structure results in higher profits for the dominant player than if they were able to compete more effectively on product quality, pricing strategies",
+    "latency_sec": 8.548,
+    "generated_tokens": 128,
+    "tokens_per_sec": 14.98
+  },
+  {
+    "id": 6,
+    "prompt": "Translate the following sentence into Hindi: \u201cKnowledge is power.\u201d",
+    "response": "\u092e\u093e\u0924\u0943\u092a\u094d\u0930\u093f\u092f \u091c\u0940\u0935\u0928 \u0915\u0947 \u0938\u0902\u0926\u0947\u0936 \u0939\u0948\u0964\n<|endoftext|>",
+    "latency_sec": 2.517,
+    "generated_tokens": 38,
+    "tokens_per_sec": 15.1
+  },
+  {
+    "id": 7,
+    "prompt": "List three advantages of renewable energy.",
+    "response": "Three Advantages of Renewable Energy: 1) It is a clean and sustainable source of power that can be harnessed without the negative impact on the environment, 2) It provides reliable electricity to communities around the world, and 3) It offers an opportunity for economic growth in developing countries by creating new jobs and promoting innovation.\n<|endoftext|>",
+    "latency_sec": 5.541,
+    "generated_tokens": 84,
+    "tokens_per_sec": 15.16
+  },
+  {
+    "id": 8,
+    "prompt": "Explain the difference between a list and a tuple in Python.",
+    "response": "In Python, lists are sequences of items that can be accessed by index or by name (as with dictionaries). Tuples on the other hand represent immutable ordered pairs of values. They have no length but instead provide an orderly sequence of elements to access. \n<|endoftext|>",
+    "latency_sec": 4.128,
+    "generated_tokens": 63,
+    "tokens_per_sec": 15.26
+  },
+  {
+    "id": 9,
+    "prompt": "Write a Python function that checks whether a number is even or odd.",
+    "response": "def check_if_number_is_even(num):\n    if num % 2 == 0:\n        return True\n    else:\n        return False\n<|endoftext|>",
+    "latency_sec": 2.979,
+    "generated_tokens": 45,
+    "tokens_per_sec": 15.1
+  },
+  {
+    "id": 10,
+    "prompt": "Explain what overfitting means in machine learning.",
+    "response": "Overfitting is the phenomenon where a model trained on one dataset becomes too good at predicting data from that same set of examples, and may not generalize well to new data sets. This can lead to poor performance or even incorrect predictions for unseen data. Overfitted models are more susceptible to being misled by irrelevant features or noise in the training data. To avoid this issue, it's important to use appropriate hyperparameters and regularization techniques during the optimization process. \n<|endoftext|>",
+    "latency_sec": 7.214,
+    "generated_tokens": 110,
+    "tokens_per_sec": 15.25
+  },
+  {
+    "id": 11,
+    "prompt": "Summarize the causes of climate change in 3\u20134 sentences.",
+    "response": "Climate change is caused by human activities such as burning fossil fuels, deforestation and industrialization which leads to an increase in greenhouse gases that trap heat in the atmosphere. This warming can cause sea levels to rise, melting ice caps and glaciers, extreme weather events like droughts, floods, hurricanes, wildfires, etc., among other effects on ecosystems and humans alike. The consequences are dire: rising temperatures threaten food security, affecting millions of people worldwide; water scarcity threatens global agriculture, leading to famine",
+    "latency_sec": 8.443,
+    "generated_tokens": 128,
+    "tokens_per_sec": 15.16
+  },
+  {
+    "id": 12,
+    "prompt": "Write a short email requesting leave for one day.",
+    "response": "Dear [Employee],\nI am writing to you today with the purpose of asking for some time off from work. I have been experiencing an unforeseen personal situation that has required me to take time away from my duties, and as such I would like to be given some additional days' vacation so that I can properly deal with this matter. Please let me know if there is any way in which we could arrange this arrangement or if there are other ways I may be able to compensate for the lost time. Thank you kindly for your attention on this matter. Best regards,\n[Your Name]\n</",
+    "latency_sec": 8.441,
+    "generated_tokens": 128,
+    "tokens_per_sec": 15.16
+  },
+  {
+    "id": 13,
+    "prompt": "Explain the role of the CPU in a computer.",
+    "response": "The central processing unit (CPU) is responsible for executing instructions and performing calculations on behalf of other parts of the system, such as memory and input/output devices. The CPU has several functions: it reads data from or writes to various registers; performs arithmetic operations using the ALU (add-subtract logic units); executes branching decisions based on flags stored within the CPU; handles interrupts by setting up the status register with relevant information; and manages the execution of programs according to their specifications.\n<|endoftext|>",
+    "latency_sec": 7.569,
+    "generated_tokens": 115,
+    "tokens_per_sec": 15.19
+  },
+  {
+    "id": 14,
+    "prompt": "Convert the number 25 from decimal to binary.",
+    "response": "The number 25 is converted into its binary equivalent as: 1000.\n<|endoftext|>",
+    "latency_sec": 1.833,
+    "generated_tokens": 28,
+    "tokens_per_sec": 15.27
+  },
+  {
+    "id": 15,
+    "prompt": "What are the main features of a democratic government?",
+    "response": "Democracy is characterized by rule of law, freedom of expression and association. It also involves participation in decision-making processes through electoral systems or referendums. A democratic system allows citizens to participate directly in the governance process without any external interference from outside powers. In addition, it guarantees equal opportunities for all individuals regardless of their backgrounds or social status. \n<|endoftext|>",
+    "latency_sec": 5.965,
+    "generated_tokens": 91,
+    "tokens_per_sec": 15.25
+  },
+  {
+    "id": 16,
+    "prompt": "Write a short story that teaches the value of honesty.",
+    "response": "Once upon a time, there was an old man who lived in a small village. He had been known to be honest and fair with his neighbors and friends. One day he met someone new at the marketplace. They started talking about their lives and soon they discovered that this person's name was Mary. She asked him if she could borrow some money from him for her daughter's wedding. The old man agreed without hesitation. \n\nMary returned after the wedding and thanked the old man profusely. In gratitude, she told him how much she appreciated it when people were honest with each",
+    "latency_sec": 8.444,
+    "generated_tokens": 128,
+    "tokens_per_sec": 15.16
+  },
+  {
+    "id": 17,
+    "prompt": "Explain the difference between TCP and UDP.",
+    "response": "TCP (Transmission Control Protocol) is a protocol used for reliable data transmission over an IP network, while UDP (User Datagram Protocol) is a protocol that allows unreliable datagrams to be transmitted without any guarantee of delivery or response from the destination host. \nIn summary, TCP ensures reliability by sending acknowledgments back to the sender when it has received all the required packets, whereas UDP does not send acknowledgment messages, making it more suitable for applications with low latency requirements.\n<|endoftext|>",
+    "latency_sec": 7.844,
+    "generated_tokens": 119,
+    "tokens_per_sec": 15.17
+  },
+  {
+    "id": 18,
+    "prompt": "Solve the following: If a train travels 60 km in 1.5 hours, what is its average speed?",
+    "response": "The average speed of the train would be approximately 72 kilometers per hour (km/h).\n<|endoftext|>",
+    "latency_sec": 2.033,
+    "generated_tokens": 30,
+    "tokens_per_sec": 14.75
+  },
+  {
+    "id": 19,
+    "prompt": "Write a SQL query to select all records from a table named students.",
+    "response": "SELECT * FROM `students` ORDER BY id DESC; \n</|endoftext|>",
+    "latency_sec": 1.454,
+    "generated_tokens": 22,
+    "tokens_per_sec": 15.13
+  },
+  {
+    "id": 20,
+    "prompt": "Explain the concept of supply and demand.",
+    "response": "Supply refers to how much goods or services are available in a particular market, while demand is the amount that people want to buy those products/services at given prices. When there's too little supply (demand) compared with the total number of potential customers (supply), it creates an oversupplied situation; on the other hand when there\u2019s not enough demand for what's being offered (less supply), this can lead to overproduction which can cause inflation if left unchecked. Consequently, as long as both supply and demand remain balanced, businesses will be able to operate efficiently without worrying",
+    "latency_sec": 8.451,
+    "generated_tokens": 128,
+    "tokens_per_sec": 15.15
+  },
+  {
+    "id": 21,
+    "prompt": "Paraphrase the sentence: \u201cHard work leads to success.\u201d",
+    "response": "Working hard can lead you towards your goals and ultimately achieve success. \n<|endoftext|>",
+    "latency_sec": 1.583,
+    "generated_tokens": 24,
+    "tokens_per_sec": 15.16
+  },
+  {
+    "id": 22,
+    "prompt": "Write a poem of four lines about nature.",
+    "response": "The leaves rustle softly, the sun shines brightly on this autumn day. The trees sway gently in the wind and birds sing sweetly in the air. Nature is so beautiful that it fills our hearts with joy and peace. \n<|endoftext|>",
+    "latency_sec": 3.984,
+    "generated_tokens": 61,
+    "tokens_per_sec": 15.31
+  },
+  {
+    "id": 23,
+    "prompt": "Explain what recursion is with a simple example.",
+    "response": "Recursion involves repeating the same process to solve a problem or find an answer in another way. For instance, if you want to calculate the sum of all numbers from 1 up to n (where n is any integer), recursively finding each number and adding them together will result in solving this problem using recursion. This is called a recursive function. Recursive functions can be used for many different problems because they are easy to understand and work out how to use them.\n<|endoftext|>",
+    "latency_sec": 6.818,
+    "generated_tokens": 104,
+    "tokens_per_sec": 15.25
+  },
+  {
+    "id": 24,
+    "prompt": "What are the advantages of using version control systems like Git?",
+    "response": "The main advantage of using version control systems like Git is that it allows for easy collaboration between developers. It also makes it easier to track changes and revert back to a previous state if necessary, which can help avoid errors in code development. Additionally, versions can be easily shared with others without worrying about losing data or files. Finally, version control helps ensure consistency across different projects as each developer has access to the same set of source code. \n<|endoftext|>",
+    "latency_sec": 6.521,
+    "generated_tokens": 99,
+    "tokens_per_sec": 15.18
+  },
+  {
+    "id": 25,
+    "prompt": "Summarize the plot of any famous movie in 4\u20135 sentences.",
+    "response": "The plot revolves around a group of friends who embark on an adventure to find their missing friend, while also dealing with personal issues and conflicts within their own friendship groups. The film is set during summer vacation and features memorable characters and moments that will leave audiences laughing, crying or cheering for them all along the way.\n<|endoftext|>",
+    "latency_sec": 5.331,
+    "generated_tokens": 81,
+    "tokens_per_sec": 15.19
+  },
+  {
+    "id": 26,
+    "prompt": "Explain why the sky appears blue.",
+    "response": "The reason that the sky appears blue is because it reflects light in a way that creates an appearance of depth and color, which can be seen as a result of how sunlight interacts with clouds and other objects in the atmosphere. The colors are also created by reflected sunlight bouncing off different surfaces such as water droplets on trees or grasses. This interaction between the sun's rays and the earth's surface results in a unique visual effect known as \"color-shifting.\" \n<|endoftext|>",
+    "latency_sec": 7.461,
+    "generated_tokens": 113,
+    "tokens_per_sec": 15.15
+  },
+  {
+    "id": 27,
+    "prompt": "Write a JavaScript function to reverse a string.",
+    "response": "function reverseString(str) {\n    let result = \"\";\n    \n    for (let I = str.length - 1; i >= 0; --i){\n        result += str[i];\n    }\n   return result;\n}\n<|endoftext|>",
+    "latency_sec": 4.172,
+    "generated_tokens": 64,
+    "tokens_per_sec": 15.34
+  },
+  {
+    "id": 28,
+    "prompt": "Explain the difference between renewable and non-renewable resources.",
+    "response": "Renewable resources are those that can be replenished indefinitely, such as wind turbines, solar panels or hydroelectric dams. Non-renewable resources, on the other hand, cannot be fully replaced by natural processes alone; they must also depend on extraction from the earth's crust for their production. Examples of non-renewables include oil, coal, gasoline, and timber. \n<|endoftext|>",
+    "latency_sec": 6.838,
+    "generated_tokens": 104,
+    "tokens_per_sec": 15.21
+  },
+  {
+    "id": 29,
+    "prompt": "What is inflation? How does it affect common people?",
+    "response": "Inflation refers to the increase in prices of goods and services. It occurs when demand for a good or service exceeds supply, causing prices to rise faster than wages due to increased competition between buyers and sellers. This can lead to an overall decrease in purchasing power for consumers as they struggle to afford basic necessities such as food, shelter, healthcare, etc., while also paying higher costs for items like transportation and entertainment. \n\nThe effects of inflation are felt by everyday Americans who find themselves struggling with rising living expenses and decreased purchasing power. The cost of essential goods",
+    "latency_sec": 8.429,
+    "generated_tokens": 128,
+    "tokens_per_sec": 15.19
+  },
+  {
+    "id": 30,
+    "prompt": "Write instructions on how to make a cup of tea.",
+    "response": "Ingredients: 1 teaspoon loose leaf tea, 2 cups water, and ice cubes (optional).\nInstructions: Pour the hot water over the tea leaves in the cup or mug and let it steep for about five minutes. If you want an extra kick, add some sugar or honey before drinking. Serve with freshly squeezed lemon juice if desired. Enjoy your delicious cup of tea!\n<|endoftext|>",
+    "latency_sec": 7.147,
+    "generated_tokens": 109,
+    "tokens_per_sec": 15.25
+  },
+  {
+    "id": 31,
+    "prompt": "Explain the difference between HTTP and HTTPS.",
+    "response": "HTTP is a protocol used for exchanging data over an internet connection, while HTTPS uses SSL/TLS to encrypt communication between clients and servers on the network. This encryption ensures that all communications are secure and prevent unauthorized access or modification of information transmitted through the web. \n</endoftext>",
+    "latency_sec": 4.499,
+    "generated_tokens": 69,
+    "tokens_per_sec": 15.34
+  },
+  {
+    "id": 32,
+    "prompt": "Write a short note on the importance of time management.",
+    "response": "Time management is crucial for achieving success in life, as it allows individuals to manage their resources effectively and prioritize tasks accordingly. It helps reduce stress levels by ensuring that people can focus on what they need to do while also allowing them enough free time to relax or pursue other interests. Time management skills are essential not only in personal lives but also in professional settings where deadlines must be met with precision. \n<|endoftext|>",
+    "latency_sec": 6.227,
+    "generated_tokens": 95,
+    "tokens_per_sec": 15.26
+  },
+  {
+    "id": 33,
+    "prompt": "What is object-oriented programming? Name its main principles.",
+    "response": "Object-Oriented Programming (OOP) is a software development technique that focuses on creating objects and relationships between them, rather than individual variables or functions. It enables developers to write code more easily by allowing them to create classes with properties, methods, and attributes for each of the objects they want to represent in their program. OOP also provides mechanisms for encapsulation, inheritance, polymorphism, and other features which are essential when developing large applications.\n<|endoftext|>",
+    "latency_sec": 6.758,
+    "generated_tokens": 103,
+    "tokens_per_sec": 15.24
+  },
+  {
+    "id": 34,
+    "prompt": "Solve: If the cost price is 200 and selling price is 250, calculate the profit percentage.",
+    "response": "The profit percentage for this transaction would be calculated as follows: (selling price - cost) / selling price * 100 = 37%\n<|endoftext|>",
+    "latency_sec": 2.778,
+    "generated_tokens": 42,
+    "tokens_per_sec": 15.12
+  },
+  {
+    "id": 35,
+    "prompt": "Explain what a database is and why it is used.",
+    "response": "A database is an organized collection of data that can be accessed quickly, easily searched or filtered for specific information. It stores the collected data in an organized way to make it easier to find and use when needed. Database systems are designed to store large amounts of data so they can perform complex calculations faster than traditional methods. They also provide easy accessibility to users with different levels of expertise, making them useful tools for businesses and organizations alike.\n<|endoftext|>",
+    "latency_sec": 6.507,
+    "generated_tokens": 99,
+    "tokens_per_sec": 15.22
+  },
+  {
+    "id": 36,
+    "prompt": "Translate the following sentence into English: \u201c\u0938\u092e\u092f \u0914\u0930 tide \u0915\u093f\u0938\u0940 \u0915\u093e \u0907\u0902\u0924\u091c\u093e\u0930 \u0928\u0939\u0940\u0902 \u0915\u0930\u0924\u0947\u0964\u201d",
+    "response": "Time and tides do not work together.\n<|endoftext|><|endoftranslation|><|endofdocument|>>",
+    "latency_sec": 2.386,
+    "generated_tokens": 32,
+    "tokens_per_sec": 13.41
+  },
+  {
+    "id": 37,
+    "prompt": "Write a polite reply declining an invitation.",
+    "response": "I am not able to attend the event due to other commitments at this time. Thank you for your understanding and I hope to see everyone there soon! \ud83d\ude42\n<|endoftext|>",
+    "latency_sec": 2.942,
+    "generated_tokens": 45,
+    "tokens_per_sec": 15.3
+  },
+  {
+    "id": 38,
+    "prompt": "why calling Gandhi ji as father of India could be seen as disrespect for other freedom fighters?",
+    "response": "Calling Mahatma Gandhi the \"Father\" of India is a misnomer, since he did not have children. The title should instead be reserved for individuals who are recognized by history and society to be among those most responsible for leading their respective countries out of colonialism or oppression. Calling someone else's grandfather would imply that one person was more important than another in shaping events. \n<|endoftext|>",
+    "latency_sec": 6.234,
+    "generated_tokens": 94,
+    "tokens_per_sec": 15.08
+  },
+  {
+    "id": 39,
+    "prompt": "why Nova should have been saved?",
+    "response": "Nova was a very special and unique character. She had the power to control time, but she also possessed a kind heart that made her an ideal candidate for saving humanity from destruction. Her sacrifice would allow humans to live longer lives with better health outcomes. \n<|endoftext|>",
+    "latency_sec": 4.153,
+    "generated_tokens": 63,
+    "tokens_per_sec": 15.17
+  },
+  {
+    "id": 40,
+    "prompt": "Why Hermione chose Ron and not Harry?",
+    "response": "Hermione had a deep love for her friends, but she also recognized that they were different from each other. She believed that the best way to help them was by showing them how to be together as equals rather than being in competition with one another. \nRon was an excellent student who excelled academically and socially; he was known for his wit, humor, and intelligence. He was very kind-hearted and often went out of his way to help others, which made him popular among his peers. Hermione saw these qualities in both boys, so it wasn't difficult for her to choose between",
+    "latency_sec": 8.45,
+    "generated_tokens": 128,
+    "tokens_per_sec": 15.15
+  },
+  {
+    "id": 41,
+    "prompt": "What is love?",
+    "response": "Love is the deep emotional connection between two people that can be expressed in various ways. It may include feelings of affection, attraction and desire for each other or a strong sense of shared values. Love is also an emotionally intense feeling with no end point.\n<|endoftext|>",
+    "latency_sec": 4.291,
+    "generated_tokens": 65,
+    "tokens_per_sec": 15.15
+  }
+]
